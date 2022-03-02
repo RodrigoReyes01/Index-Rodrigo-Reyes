@@ -8,5 +8,5 @@
   -[Tarea 4](https://github.com/RodrigoReyes01/Tarea4ED)
 
 
-<br><br>**Proyectos:**
+<br><br>**Proyectos:** <br><br>
 -[Proyecto 1](https://github.com/Tuki1077/Proyecto-reservacion-de-boletos) <br>
