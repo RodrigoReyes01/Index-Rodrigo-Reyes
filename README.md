@@ -7,8 +7,8 @@
   -[Tarea 3](https://github.com/RodrigoReyes01/Tarea3ED) <br>
   -[Tarea 4](https://github.com/RodrigoReyes01/Tarea4ED)<br>
   -[Tarea 5]()<br>
-  -[Tarea 6]()<br>
-  -[Tarea 7]()<br>
+  -[Tarea 6 Opcional(no la tenia que hacer)]()<br>
+  -[Tarea 7](https://github.com/RodrigoReyes01/Tarea7ED)<br>
 
 
 <br><br>**Proyectos:** <br><br>
